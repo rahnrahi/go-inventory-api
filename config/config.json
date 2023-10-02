@@ -1,0 +1,4 @@
+{
+    "connection_string": "root:rootroot@tcp(127.0.0.1:3306)/inventorydb",
+    "port": 8080
+}
